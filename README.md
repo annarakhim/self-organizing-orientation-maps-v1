@@ -42,20 +42,23 @@ Wei, H. (2014). A mathematical model of retinal ganglion cells and its applicati
 
 Для k_winners = 1:
 
-<img width="569" height="580" alt="rf_1w" src="https://github.com/user-attachments/assets/87bbe766-01f5-4ee0-8834-c3daca8aafee" />
+<img width="1169" height="1180" alt="rf_1w" src="https://github.com/user-attachments/assets/c9279465-9d2b-462c-8a80-9b619d8df5b0" />
 
 
 Для k_winners = 6 (более плавное изменение ориентации рецептивных полей между соседними нейронами):
 
-<img width="569" height="580" alt="rf_6w" src="https://github.com/user-attachments/assets/b8046c1a-1482-4b68-adce-f98117f654e8" />
+<img width="1169" height="1180" alt="rf_6w" src="https://github.com/user-attachments/assets/353faca4-6599-46fc-a602-52291d70106b" />
+
 
 Топографическая организация рецептивных полей в виде pinwheels:
 
-<img width="920" height="390" alt="Без названия" src="https://github.com/user-attachments/assets/091fbe92-33f8-4853-ac63-c7688cb1f6e3" />
+<img width="1820" height="790" alt="pw" src="https://github.com/user-attachments/assets/33225f13-952c-4537-a873-b2bc9af2a6ea" />
+
 
 Изображение активности зрительной коры из книги "От нейрона к мозгу" Николлс Дж.Г.:
 
-<img width="748" height="271" alt="image" src="https://github.com/user-attachments/assets/71cd3bf8-35c4-4124-8905-3f7f50e4c8a8" />
+<img width="748" height="271" alt="image" src="https://github.com/user-attachments/assets/f1d58cc7-74b7-43e1-ae09-3cd0f3125e29" />
+
 
 
 
