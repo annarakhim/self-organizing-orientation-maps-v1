@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/annarakhim/self-organizing-orientation-maps-v1/blob/main/receptive_fields.ipynb)
 # self-organizing-orientation-maps-v1
 Моделирование самоорганизации топографической карты ориентационно-селективных рецептивных полей в первичной зрительной коре
 
